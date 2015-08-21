@@ -7,7 +7,9 @@ Reference for every (common) special characters shortcut on a Mac keyboard (Azer
 | :---------------: |:-------------:| :-----------------------:|
 | Backslash         | \\            | `⌥` + `⇧` + `/`          |
 | Euro              | €             | `⌥` + `$`                |
+| Inferior or equal | ≤             | `⌥` + `<`                |
 | Pipe              | \|            | `⌥` + `⇧` + `l`          |
+| Superior or equal | ≥             | `⌥` + `⇧` + `>`          |
 | Tilde             | ~             | `⌥` + `n`                |
 
 ---
