@@ -5,9 +5,12 @@ Reference for every (common) special characters shortcut on a Mac keyboard (Azer
 
 | Name              | Symbol        | Shortcut                 |
 | :---------------: |:-------------:| :-----------------------:|
+| Approximation     | ≈             | `⌥` + `x`                |
 | Backslash         | \\            | `⌥` + `⇧` + `/`          |
+| Different         | ≠             | `⌥` + `=`                |
 | Euro              | €             | `⌥` + `$`                |
 | Inferior or equal | ≤             | `⌥` + `<`                |
+| Infinite          | ∞             | `⌥` + `?`                |
 | Pipe              | \|            | `⌥` + `⇧` + `l`          |
 | Superior or equal | ≥             | `⌥` + `⇧` + `>`          |
 | Tilde             | ~             | `⌥` + `n`                |
