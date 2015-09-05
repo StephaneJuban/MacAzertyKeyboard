@@ -11,7 +11,7 @@ Reference for every (common) special characters shortcut on a Mac keyboard (Azer
 | Euro              | €             | `⌥` + `$`                |
 | Inferior or equal | ≤             | `⌥` + `<`                |
 | Infinite          | ∞             | `⌥` + `?`                |
-| Japanse Yen       | ¥             | `⌥` + `⇧` + `$`          |
+| Japanese Yen      | ¥             | `⌥` + `⇧` + `$`          |
 | Pipe              | \|            | `⌥` + `⇧` + `l`          |
 | Superior or equal | ≥             | `⌥` + `⇧` + `>`          |
 | Tilde             | ~             | `⌥` + `n`                |
