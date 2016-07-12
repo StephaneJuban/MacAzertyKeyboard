@@ -11,6 +11,7 @@ Reference for every (common) special characters shortcut on a Mac keyboard (Azer
 | Euro              | €             | `⌥` + `$`                |
 | Inferior or equal | ≤             | `⌥` + `<`                |
 | Infinite          | ∞             | `⌥` + `?`                |
+| Ohm               | Ω             | `⌥` + `⇧` + `q`          |
 | Japanese Yen      | ¥             | `⌥` + `⇧` + `$`          |
 | Pipe              | \|            | `⌥` + `⇧` + `l`          |
 | Superior or equal | ≥             | `⌥` + `⇧` + `>`          |
@@ -19,7 +20,7 @@ Reference for every (common) special characters shortcut on a Mac keyboard (Azer
 
 ---
 
-Some shortcut are not supported natively via shortcut
+Some symbols are not supported natively via shortcut
 
 | Name              | Symbol        |
 | :---------------: |:-------------:|
