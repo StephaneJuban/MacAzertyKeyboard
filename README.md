@@ -17,6 +17,7 @@ Reference for every (common) special characters shortcut on a Mac keyboard (Azer
 | Superior or equal | ≥             | `⌥` + `⇧` + `>`          |
 | Tilde             | ~             | `⌥` + `n`                |
 | Trademark         | ™             | `⌥` + `⇧` + `t`          |
+| Registered        | ®             | `⌥` + `r`                |
 
 ---
 
