@@ -26,3 +26,9 @@ Some symbols are not supported natively via shortcut
 | Name              | Symbol        |
 | :---------------: |:-------------:|
 | Power             | ²             |
+
+---
+
+Long press popup for accentuated or special characters
+- Enable : `defaults write -g ApplePressAndHoldEnabled -bool true`
+- Disable : `defaults write -g ApplePressAndHoldEnabled -bool false`
